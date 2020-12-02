@@ -49,7 +49,7 @@ function draw() {
     }
     
     return false;
-  }
+  };
 
   drawSprites();
 }
